@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #f7f7f2;
+  color: #121113;
+}
+
+.title {
+  background-color: #121113;
+  color: #f7f7f2;
+  padding: 25px 25px;
+  text-align: center;
+}
